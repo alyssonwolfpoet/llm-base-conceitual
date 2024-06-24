@@ -1,40 +1,47 @@
 # llm-base-conceitual
 links para estudos
 
+[sintase basica markdown](https://www.markdownguide.org/basic-syntax/)
+
 # Conhecimentos iniciais
-    https://www.youtube.com/watch?v=zizonToFXDs
 
-    https://medium.com/blog-do-zouza/tudo-o-que-voc%C3%AA-precisa-saber-sobre-llm-large-language-model-a36be85bbf8f
+[Introduction to large language models](https://www.youtube.com/watch?v=zizonToFXDs)
 
-    https://pt.shaip.com/blog/a-guide-large-language-model-llm/
+[Tudo o que você precisa saber sobre LLM (Large Language Model)](https://medium.com/blog-do-zouza/tudo-o-que-voc%C3%AA-precisa-saber-sobre-llm-large-language-model-a36be85bbf8f)
 
-    https://www.youtube.com/watch?v=kPGTx4wcm_w
+[Large Language Models (LLM): Guia Completo em 2023](https://pt.shaip.com/blog/a-guide-large-language-model-llm/)
 
-    https://brains.dev/2023/os-transformers-ilustrados/
+[Developing an LLM: Building, Training, Finetuning](https://www.youtube.com/watch?v=kPGTx4wcm_w)
+
+[Os Transformers Ilustrados](https://brains.dev/2023/os-transformers-ilustrados/)
 
 
 # treinamento pratico
-    https://www.youtube.com/watch?v=LphBQB1amrw
 
-    https://medium.com/@siladityaghosh/exploring-large-language-models-llms-32fd42ace15d
+[Criando um LLM do Zero](https://www.youtube.com/watch?v=LphBQB1amrw)
 
-    https://thomascherickal.medium.com/how-to-create-your-own-llm-model-2598615a039a
+[Exploring Large Language Models (LLMs) with Python Code Examples Siladitya Ghosh](https://medium.com/@siladityaghosh/exploring-large-language-models-llms-32fd42ace15d)
 
-    https://aruno14.medium.com/how-to-create-your-own-llm-1a0101f782b2
+[How to Create Your Local LLM Model (Revised and Updated) — Extra Curated LLMOps Resources](https://thomascherickal.medium.com/how-to-create-your-own-llm-model-2598615a039a)
 
-    https://www.youtube.com/watch?v=HOiBaH9gAlU
+[How to create your own LLM](https://aruno14.medium.com/how-to-create-your-own-llm-1a0101f782b2)
 
-    https://www.youtube.com/watch?v=ypNLn3MfRCg
+[Bloom (Text Generation Large Language Model - LLM): Step by step implementation](https://www.youtube.com/watch?v=HOiBaH9gAlU)
 
-    https://www.youtube.com/watch?v=nXynNB6XzAM
+[DESCOMPLICANDO OLLAMA - Utilizando Modelos de IA no Docker e K8s! grátis](https://www.youtube.com/watch?v=ypNLn3MfRCg)
+
+[Tutorial básico de Langchain aprenda a desenvolver apps com ChatGPT, LLaMA, e Gemini - Vídeo 0](https://www.youtube.com/watch?v=nXynNB6XzAM)
 
 
 # conceitos mais avancados
-    https://medium.com/data-hackers/construindo-aplica%C3%A7%C3%B5es-personalizadas-com-llm-atrav%C3%A9s-de-rag-retrieve-augmented-generation-6f3a3df7b6de
+[Construindo aplicações personalizadas com LLM através de RAG (Retrieve Augmented Generation)](https://medium.com/data-hackers/construindo-aplica%C3%A7%C3%B5es-personalizadas-com-llm-atrav%C3%A9s-de-rag-retrieve-augmented-generation-6f3a3df7b6de)
 
 # extras para estudo a parte
-    https://www.youtube.com/watch?v=2Rva8tCy6QY
 
-    https://www.assemblyai.com/docs/getting-started/apply-llms-to-audio-files
+[How To Pass An Audio File To LLM 📚🤖](https://www.youtube.com/watch?v=2Rva8tCy6QY)
 
-    https://blog.nvidia.com.br/blog/ia-decodificada-rtx-pc-llms-chatbots/
+[Apply LLMs to audio files](https://www.assemblyai.com/docs/getting-started/apply-llms-to-audio-files)
+
+[IA Decodificada: desmistificando grandes modelos de linguagem, o cérebro por trás dos chatbots](https://blog.nvidia.com.br/blog/ia-decodificada-rtx-pc-llms-chatbots/)
+
+[Modelo de linguagem de código aberto supera GPT-4 Turbo em problemas de codificação pela primeira vez](https://www.tabnews.com.br/NewsletterOficial/modelo-de-linguagem-de-codigo-aberto-supera-gpt-4-turbo-em-problemas-de-codificacao-pela-primeira-vez)
