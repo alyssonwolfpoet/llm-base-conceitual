@@ -30,6 +30,8 @@ links para estudos
 
 [Tutorial básico de Langchain aprenda a desenvolver apps com ChatGPT, LLaMA, e Gemini - Vídeo 0](https://www.youtube.com/watch?v=nXynNB6XzAM)
 
+[Creating a simple chatbot with open-source LLMs using Python and Hugging Face](https://medium.com/@danushidk507/creating-a-simple-chatbot-with-open-source-llms-using-python-and-hugging-face-01a9f5a7ebdf)
+
 
 # conceitos mais avancados
 [Construindo aplicações personalizadas com LLM através de RAG (Retrieve Augmented Generation)](https://medium.com/data-hackers/construindo-aplica%C3%A7%C3%B5es-personalizadas-com-llm-atrav%C3%A9s-de-rag-retrieve-augmented-generation-6f3a3df7b6de)
