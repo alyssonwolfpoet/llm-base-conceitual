@@ -1,8 +1,6 @@
 # llm-base-conceitual
 links para estudos
 
-[sintase basica markdown](https://www.markdownguide.org/basic-syntax/)
-
 # Conhecimentos iniciais
 
 [Introduction to large language models](https://www.youtube.com/watch?v=zizonToFXDs)
